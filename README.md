@@ -26,7 +26,9 @@ A simple web-based scoreboard for tracking scores between two teams: Home and Gu
 
 ## Example
 
-![Scoreboard Screenshot](screenshot.png)
+## Example
+
+![Scoreboard Screenshot](image.png)
 
 ## License
 
