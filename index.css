@@ -58,10 +58,35 @@ body {
     font-size: 90px;
 }
 
+.containerbtn1 {
+     display: flex;
+    justify-content: space-around ;
+    margin: 26px 100px 69px 82px;
+}
+
+.containerbtn2 {
+    display: flex;
+    justify-content: space-around ;
+    margin: 26px 83px 69px 100px;
+
+}
+
 .btn1 {
-   
-border-radius: 5px;
+    font-family: "Share Tech Mono", monospace;
+    font-size: 20px;
+    border: 5px solid #9aabd8;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #9aabd8;
+    padding: 9px 8px 10px 7px;
+}
 
-
-
+.btn2 {
+    font-family: "Share Tech Mono", monospace;
+    font-size: 20px;
+    border: 5px solid #9aabd8;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #9aabd8;
+    padding: 9px 8px 10px 7px;
 }
